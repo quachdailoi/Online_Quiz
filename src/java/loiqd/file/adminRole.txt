@@ -1,0 +1,7 @@
+index=index.jsp
+login=login
+logout=logout
+home=admin_home.jsp
+search=search
+subject_details=subject_details.jsp
+update=update

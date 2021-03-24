@@ -1,0 +1,10 @@
+index=index.jsp
+login=login
+home=student_home.jsp
+do-quiz=quiz
+quiz_page=quiz.jsp
+search=search
+prepare=prepareforquiz
+submit=submit-quiz
+history_page=history.jsp
+history=history
